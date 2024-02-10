@@ -105,8 +105,8 @@ function disableCards() {
     gravity: 1,
     decay: 0.94,
     startVelocity: 15,
-    particleCount: 20,
-    scalar: 25,
+    particleCount: 25,
+    scalar: 30,
     shapes: ["image"],
     shapeOptions: {
       image: [{
