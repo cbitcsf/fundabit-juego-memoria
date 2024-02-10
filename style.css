@@ -109,9 +109,7 @@ p {
 
 
 @media only screen and (min-width: 600px) and (max-width: 991px) and (orientation:portrait ) {
-  body{
-    background: yellow;
-  }
+  
   h1 {
     font-size: 40px;
   } 
@@ -130,9 +128,7 @@ p {
 
 
 @media only screen and (min-width: 600px) and (max-width: 991px) and (orientation:landscape){
-  body{
-    background: blue;
-  } 
+  
   h1 {
     font-size: 30px;
   }
@@ -155,9 +151,7 @@ p {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1365px) and (orientation: landscape) {
-  body{
-    background: tomato;
-  }
+  
   .card {
     height: calc(150px / 2 * 3);
     width: 150px;      
@@ -173,10 +167,6 @@ p {
 
 
 @media only screen and (min-width: 1366px) {
-  body{ 
-      background: violet;
-  }
-  
   h1 {
     font-size: 50px;
   }
