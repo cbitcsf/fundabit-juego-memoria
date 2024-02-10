@@ -1,0 +1,86 @@
+[
+    {
+        "image": "../assets/bochaga.png",
+        "name": "bochaga"
+    },
+    {
+        "image": "../assets/francis.png",
+        "name": "francis"
+    },
+    {
+        "image": "../assets/gaddiel.png",
+        "name": "gaddiel"
+    },
+    {
+        "image": "../assets/juan.png",
+        "name": "juan"
+    },
+    {
+        "image": "../assets/hector.png",
+        "name": "hector"
+    },
+    {
+        "image": "../assets/juana.png",
+        "name": "juana"
+    },
+    {
+        "image": "../assets/junior.png",
+        "name": "junior"
+    },
+    {
+        "image": "../assets/luis.png",
+        "name": "luis"
+    },
+    {
+        "image": "../assets/miguel.png",
+        "name": "miguel"
+    },
+    {
+        "image": "../assets/moises.png",
+        "name": "moises"
+    },
+     {
+        "image": "../assets/nelgar.png",
+        "name": "nelgar"
+    },
+    {
+        "image": "../assets/pablo.png",
+        "name": "pablo"
+    },
+    {
+        "image": "../assets/pedro.png",
+        "name": "pedro"
+    },
+    {
+        "image": "../assets/sil.png",
+        "name": "sil"
+    },
+    {
+        "image": "../assets/virgilio.png",
+        "name": "virgilio"
+    },
+    {
+        "image": "../assets/adriana.png",
+        "name": "adriana"
+    },
+    {
+        "image": "../assets/irbis.png",
+        "name": "irbis"
+    },
+    {
+        "image": "../assets/yuli.png",
+        "name": "yuli"
+    },
+    {
+        "image": "../assets/yusimar.png",
+        "name": "yusimar"
+    },
+    {
+        "image": "../assets/merlin.png",
+        "name": "merlin"
+    },
+    {
+        "image": "../assets/yuleiza.png",
+        "name": "yuleiza"
+    }
+]
