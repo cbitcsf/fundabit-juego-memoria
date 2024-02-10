@@ -80,6 +80,18 @@
         "name": "merlin"
     },
     {
+        "image": "../assets/marleni.png",
+        "name": "marleni"
+    },
+    {
+        "image": "../assets/madrigal.png",
+        "name": "madrigal"
+    },
+    {
+        "image": "../assets/yuris.png",
+        "name": "yuris"
+    },
+    {
         "image": "../assets/yuleiza.png",
         "name": "yuleiza"
     }
