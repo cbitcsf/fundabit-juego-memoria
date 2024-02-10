@@ -31,7 +31,6 @@ function getRandomObjects(obj) {
     const NCARDS = 9;
     let newArr = [];
     let randNums = selectRandomNumbers(TOTALCARDS);
-    console.log('randNums: ', randNums);
     for (let i=0; i < NCARDS; i++){
         newArr.push(obj[randNums[i]]);        
     }
