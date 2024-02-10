@@ -2,9 +2,7 @@ body {
   min-height: 100vh;
   min-width: 100vh;
   
-  background: #5C258D; 
-  background: -webkit-linear-gradient(to right, #4389A2, #5C258D); 
-  background: linear-gradient(to right, #4389A2, #5C258D); 
+  background: #4370A2; 
   
   /*-------------*/
   background-size: cover;
