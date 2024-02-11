@@ -17,15 +17,15 @@ const defaults = {
 function shoot() {
   confetti({
     ...defaults,
-    particleCount: 60,
-    scalar: 2.2,
+    particleCount: 80,
+    scalar: 3.2,
     shapes: ["star"],
   });
 
   confetti({
     ...defaults,
-    particleCount: 20,
-    scalar: 1.75,
+    particleCount: 30,
+    scalar: 2.75,
     shapes: ["circle"],
   });
 }
