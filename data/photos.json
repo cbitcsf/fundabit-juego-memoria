@@ -92,6 +92,18 @@
         "name": "yuris"
     },
     {
+        "image": "../assets/damelis.png",
+        "name": "damelis"
+    },
+    {
+        "image": "../assets/ivonne.png",
+        "name": "ivonne"
+    },
+    {
+        "image": "../assets/jose.png",
+        "name": "jose"
+    },
+    {
         "image": "../assets/yuleiza.png",
         "name": "yuleiza"
     }
