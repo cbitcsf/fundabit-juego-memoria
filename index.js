@@ -18,15 +18,15 @@ function shoot() {
   confetti({
     ...defaults,
     particleCount: 100,
-    scalar: 4.2,
+    scalar: 5.5,
     shapes: ["star"],
   });
 
   confetti({
     ...defaults,
-    particleCount: 40,
-    scalar: 2.75,
-    shapes: ["heart"],
+    particleCount: 50,
+    scalar: 3.95,
+    shapes: ["heart","circle"],
   });
 }
 
