@@ -104,6 +104,10 @@
         "name": "jose"
     },
     {
+        "image": "../assets/carlos.png",
+        "name": "carlos"
+    },
+    {
         "image": "../assets/yuleiza.png",
         "name": "yuleiza"
     }
