@@ -6,10 +6,10 @@ let score = 0;
 
 const defaults = {
   spread: 360,
-  ticks: 50,
+  ticks: 60,
   gravity: 0,
   decay: 0.94,
-  startVelocity: 25,
+  startVelocity: 20,
   shapes: ["star"],
   colors: ["FFE400", "FFBD00", "E89400", "FFCA6C", "FDFFB8"],
 };
@@ -17,16 +17,16 @@ const defaults = {
 function shoot() {
   confetti({
     ...defaults,
-    particleCount: 80,
-    scalar: 3.2,
+    particleCount: 100,
+    scalar: 4.2,
     shapes: ["star"],
   });
 
   confetti({
     ...defaults,
-    particleCount: 30,
+    particleCount: 40,
     scalar: 2.75,
-    shapes: ["circle"],
+    shapes: ["heart"],
   });
 }
 
