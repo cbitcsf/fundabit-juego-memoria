@@ -9,7 +9,7 @@ const defaults = {
   ticks: 50,
   gravity: 0,
   decay: 0.94,
-  startVelocity: 30,
+  startVelocity: 25,
   shapes: ["star"],
   colors: ["FFE400", "FFBD00", "E89400", "FFCA6C", "FDFFB8"],
 };
@@ -17,15 +17,15 @@ const defaults = {
 function shoot() {
   confetti({
     ...defaults,
-    particleCount: 40,
-    scalar: 1.2,
+    particleCount: 60,
+    scalar: 2.2,
     shapes: ["star"],
   });
 
   confetti({
     ...defaults,
-    particleCount: 10,
-    scalar: 0.75,
+    particleCount: 20,
+    scalar: 1.75,
     shapes: ["circle"],
   });
 }
